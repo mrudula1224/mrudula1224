@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋, I'm Mrudula Kharge</h1>
 <h3 align="center">An Aspiring Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
