@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Mrudula Kharge</h1>
 <h3 align="center">An Aspiring Software Developer</h3>
